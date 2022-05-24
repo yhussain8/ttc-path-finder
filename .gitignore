@@ -1,0 +1,5 @@
+.DS_Store
+/dask-worker-space
+/data
+/notebook-archive
+/raw-data
