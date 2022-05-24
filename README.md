@@ -1,3 +1,5 @@
+# TTC Pathfinder
+
 Note: Code for final model can be viewed in "06_FINAL_MODEL.ipynb" notebook.
 
 My goal with this project was to build a pathfinding algorithm which provides transit routes between any two locations within the city of Toronto. For my source data, I relied on the Toronto Transit Commission’s Routes and Schedules dataset [https://open.toronto.ca/dataset/ttc-routes-and-schedules/] found on Toronto’s Open Data portal [https://open.toronto.ca/]. Coded in Python, I used the pandas library for data analysis and wrangling, I used the numpy library to vectorize some of the steps in my model, I used the heapq library to set up priority queues, and I used Folium to visualize geographical data on a map.
